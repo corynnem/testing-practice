@@ -1,0 +1,17 @@
+{
+  "name": "anya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problems.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
